@@ -1,0 +1,15 @@
+{
+    "expo": {
+      "sdkVersion": "28.0.0",
+      "name": "testapp",
+      "slug": "react-native-starter-kit",
+      "privacy": "public",
+      "ios": {
+        "bundleIdentifier": "com.tunafish.doodlepain"
+      },
+      "android": {
+        "package": "com.tunafish.doodlepain"
+      }
+    }
+  }
+  
